@@ -130,8 +130,16 @@ Here’s my updated step-by-step plan to cover everything:
     * Document projects and showcase them on **GitHub + Hashnode/Medium blog**.
         
 
+---
+
 ## 💡 Final Thoughts
 
 Transitioning from **web development into DevOps** feels like a natural step forward in my career. With my experience in coding, deployments, and performance optimization, I have a solid base to build on. DevOps lets me enhance these skills by automating processes, scaling infrastructure, and ensuring everything runs smoothly.
 
 This journey is about **growing technically and transforming culturally** — and I'm thrilled to continue building, automating, and collaborating as I dive into DevOps completely. 🚀
+
+Here are links to my LinkedIn and GitHub profiles. Feel free to connect with me for questions, advice, networking, or collaboration on projects. I'm eager to engage with others and grow my professional network.
+
+1. [LinkedIn](https://www.linkedin.com/in/anand-aage/) - Connect for updates on my career, industry insights, and collaboration opportunities.
+    
+2. [GitHub](https://github.com/anandaage123/) - Check out my projects and contributions, and collaborate on open-source work.

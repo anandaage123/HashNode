@@ -4,7 +4,7 @@ seoTitle: "DevOps Basics: Key Concepts and Practices"
 datePublished: Wed Aug 20 2025 14:35:32 GMT+0000 (Coordinated Universal Time)
 cuid: cmek2rl1r000202lhbmkfh5y6
 slug: beginners-guide-to-devops-essential-concepts-and-practices
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/_UeY8aTI6d0/upload/e635c7871e52dd5dfca1e509b69c46ab.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/cckf4TsHAuw/upload/4a110de6553c8bc94f470b5fb63583ac.jpeg
 
 ---
 

@@ -4,7 +4,7 @@ seoTitle: "AWS Networking Explained: VPC, Subnets, NACLs & Security Groups with 
 seoDescription: "Master AWS networking fundamentals with this in-depth yet simple guide. Learn VPC, subnets (public & private), NACLs, security groups, route tables, and gat"
 datePublished: Thu Sep 11 2025 17:30:48 GMT+0000 (Coordinated Universal Time)
 cuid: cmffopppr000002i94fxe2n94
-slug: demystifying-aws-networking-vpc-subnets-nacls-and-security-groups-explained
+slug: aws-networking-vpc-subnets-nacls-security-groups-guide
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/M5tzZtFCOfs/upload/57c15d37ef8ce5772a6284b30e8a40c5.jpeg
 tags: aws, security, cloud-computing, devops, vpc
 
